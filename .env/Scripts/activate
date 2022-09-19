@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Pankhuri Srivastava\Desktop\Projects\Text Summarization Using Hugging Face\.env"
+VIRTUAL_ENV="C:\Users\Pankhuri Srivastava\Desktop\Projects\Text Summarization Using Hugging Face\Text-Summarization-Using-Hugging-Face\.env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
