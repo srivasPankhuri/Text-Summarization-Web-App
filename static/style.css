@@ -25,3 +25,11 @@
     padding:10px;
     /* margin:auto; */
 }
+.heading{
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
+}
+.submitBtn{
+    margin-top:10px;
+}
