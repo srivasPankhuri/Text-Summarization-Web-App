@@ -71,5 +71,5 @@ def summarizer(text):
     # print("Length of original text",len(text.split(' ')))
     # print("Length of summary text",len(summary.split(' ')))
 
-    return summary,doc, len(doc.split(' ')), len(summary.split(' '))
+    return summary,doc, len(text.split(' ')), len(summary.split(' '))
     

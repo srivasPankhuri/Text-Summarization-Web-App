@@ -1,0 +1,27 @@
+.original{
+    font-size: 20px;
+    padding:3px;
+    font-weight: bold;
+    display: flex;
+    justify-content:center;
+}
+.summary{
+    font-size: 20px;
+    padding:3px;
+    font-weight: bold;
+    display: flex;
+    justify-content:center;
+}
+
+.srt{
+    display:flex;
+    flex-direction: row;
+}
+.originalTxt{
+    padding:10px;
+    margin:auto;
+}
+.summaryTxt{
+    padding:10px;
+    /* margin:auto; */
+}
