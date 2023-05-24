@@ -18,7 +18,7 @@ The Text Summarization Web App is a user-friendly platform that allows users to 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/text-summarization-web-app.git`
+1. Clone the repository: `git clone https://github.com/srivasPankhuri/Text-Summarization-Web-App.git`
 2. Set up the necessary dependencies and environment according to the provided documentation.
 3. Configure the app settings, including any API keys or external services required.
 4. Build and run the application on your local development server.
